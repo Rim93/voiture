@@ -14,7 +14,6 @@
 <?php the_field('couleur'); ?>
 <?php the_field('cylindre'); ?>
 <?php the_field('annee'); ?>
-<h1>riMMM</h1>
 
 
 <div class="content">
@@ -23,6 +22,6 @@
 </article>
 <?php endwhile; ?>
 <?php endif; ?>
-</div>
+</div>s
 
 <?php get_footer(); ?>
